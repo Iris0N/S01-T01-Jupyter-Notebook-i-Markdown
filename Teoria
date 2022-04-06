@@ -1,0 +1,89 @@
+Estructura de dades i Estructures de control
+
+En aquest sprint cal tenir paciència perquè potser els exercicis són molt bàsics i senzills, però ja veuràs que l'itinerari es va tornant més complex.
+
+Cal recordar que l'important és l'entrega de tasques, així que si veus que ja saps alguns punts d'aquest itinerari pots anar directament a aquells continguts que necessites aprofundir o et falten més coneixements. 
+
+1. Estructura de dades
+
+En aquest capítol s'expliquen les diferents estructures de dades per tal de manipular dades amb Python. En aquest sprint cal tenir paciència perquè potser els exercicis són molt bàsics i senzills, però ja veuràs que l'itinerari es va tornant més complex.
+
+Cal recordar que l'important és l'entrega de tasques, així que si veus que ja saps alguns punts d'aquest itinerari pots anar directament a aquells continguts que necessites aprofundir o et falten més coneixements.
+
+Estructura de dades
+
+    Aprendre des de Python Lists fins a Diccionaris, ambdues incloses
+    
+    Estructura de dades i Estructures de control
+
+En aquest sprint cal tenir paciència perquè potser els exercicis són molt bàsics i senzills, però ja veuràs que l'itinerari es va tornant més complex.
+
+Cal recordar que l'important és l'entrega de tasques, així que si veus que ja saps alguns punts d'aquest itinerari pots anar directament a aquells continguts que necessites aprofundir o et falten més coneixements. 
+
+2. Estructures de control
+
+En aquest llibre veuràs les estructures de control. Cal que assoleixis tots els coneixements per a poder assolir unes bones bases que et permetin desenvolupar l'itinerari amb comoditat. 
+
+Accedir als següents LINKS que us proporcionaran informació imprescindible respecte al temari:
+
+    Introducció condicionals i bucles
+
+Secció If..else, For Loops i While Loops
+
+    Estructures de control if/else/elif
+
+Aprendre a crear decisions mitjançant diferents formes d’enunciat if..else.
+
+    Creació de funcions pròpies
+
+Si anticipes la necessitat de repetir el mateix codi més d'una vegada, val la pena escriure una funció reutilitzable
+
+https://www.w3schools.com/python/python_conditions.asp
+https://www.programiz.com/python-programming/if-elif-else
+https://www.w3schools.com/python/python_functions.asp
+
+
+Estructura de dades i Estructures de control
+
+En aquest sprint cal tenir paciència perquè potser els exercicis són molt bàsics i senzills, però ja veuràs que l'itinerari es va tornant més complex.
+
+Cal recordar que l'important és l'entrega de tasques, així que si veus que ja saps alguns punts d'aquest itinerari pots anar directament a aquells continguts que necessites aprofundir o et falten més coneixements. 
+
+3. La llibreria Numpy és una de les llibreries més utilitzades en Python. En aquest llibre la coneixeràs i et permetrà treballar amb dades numèriques.
+
+Material didàctic del temari:
+
+    Introducció a Numpy
+    https://www.w3schools.com/python/numpy/numpy_intro.asp
+    Numpy Python CheatSheet 
+
+Full de trucs de la llibreria Numpy
+Estructura de dades i Estructures de control
+
+En aquest sprint cal tenir paciència perquè potser els exercicis són molt bàsics i senzills, però ja veuràs que l'itinerari es va tornant més complex.
+
+Cal recordar que l'important és l'entrega de tasques, així que si veus que ja saps alguns punts d'aquest itinerari pots anar directament a aquells continguts que necessites aprofundir o et falten més coneixements. 
+
+4. Exploració de dades
+
+Finalment en aquest sprint veuràs també una de les llibreries més utilitzades en Python, la llibreria Pandas. Aprofita per conèixer-la en profunditat perquè és molt útil!
+
+Material didàctic:
+
+Dataframes
+
+    Tutorial amb exemples, 7 primers capítols complets
+    https://tutswiki.com/pandas-cookbook/
+
+Tutorial complet i llibreria pandas
+https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
+
+Resumir dataframes
+https://www.tutorialspoint.com/python_pandas/python_pandas_groupby.htm
+
+    Agrupació, Agregació, Transformació i filtrat
+
+Pandas CheatSheet
+
+    Full de trucs de la llibreria Pandas (Descàrrega)
+
